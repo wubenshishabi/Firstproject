@@ -17,7 +17,7 @@
   
   <body>
    <h1 style="color:blue;text-align:center">个人简历</h1>
-  <img loading="lazy" src="image/QQ图片20210325151639.jpg" width="240" height="320" />
+  <img loading="lazy" src="https://github.com/wubenshishabi/Firstproject/blob/main/WebRoot/image/QQ%E5%9B%BE%E7%89%8720210325151639.jpg" width="240" height="320" />
 <h2 style="color:green"> 基本信息</h2>
 <hr/>
      <p>在读院校：河南科技大学     学历：本科</p>

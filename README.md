@@ -1,5 +1,4 @@
-# Firstproject
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+# 我的简历
 <html>
   <head>
     <base href="<%=basePath%>">
